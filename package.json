@@ -1,0 +1,39 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "no description",
+  "main": "src/app.js",
+  "bin": {
+      "anydoor": "bin/anydoor"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^6.0.0",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "handlebars": "^4.0.11",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyn19951228/anydoor.git"
+  },
+  "keywords": [
+    "nodejs",
+    "static",
+    "webserver"
+  ],
+  "author": "yiningyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyn19951228/anydoor/issues"
+  },
+  "homepage": "https://github.com/yyn19951228/anydoor#readme"
+}
